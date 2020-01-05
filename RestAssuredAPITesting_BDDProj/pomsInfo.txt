@@ -1,0 +1,11 @@
+RestAssuredAPITesting_BDDProj
+
+POM Dependencies required for this project
+1.rest assured
+2.json-schema validator
+3.json path
+4.xml path
+5.testng
+6.java hamcrest
+7.hamecrest core
+8.hamcrest library

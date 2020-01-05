@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="restAssuredTestSuite">
+<listeners>
+<listener class-name="restAssuredTest.utilities.Listeners"/>
+ </listeners>
+<test thread-count="5" name="restAssuredTest">
+<classes>
+<class name="restAssuredTest.testcases.Demo1_GET_Req"/>
+<class name="restAssuredTest.testcases.Demo2_POST_Req"/>
+<class name="restAssuredTest.testcases.Demo3_PUT_Req"/>
+<class name="restAssuredTest.testcases.Demo1_DEL_Req"/>
+<class name="restAssuredTest.testcases. Demo5_BasicValidations_Json"/>
+</classes>
+</test><!-- Test -->
+</suite><!-- Suite -->

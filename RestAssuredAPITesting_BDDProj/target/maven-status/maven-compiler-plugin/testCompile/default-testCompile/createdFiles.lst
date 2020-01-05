@@ -1,0 +1,9 @@
+restAssuredTest\Demo3_PUT_Req.class
+restAssuredTest\RestUtils.class
+xMLResponseTest\BasicValidation_XML_response.class
+restAssuredTest\Demo2_POST_Req.class
+serializationDeserialization\Test.class
+restAssuredTest\Demo1_GET_Req.class
+serializationDeserialization\SerilizationDesirialization.class
+restAssuredTest\Demo4_DEL_Req.class
+restAssuredTest\Demo5_BasicValidations_Json.class
